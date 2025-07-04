@@ -179,6 +179,15 @@ body {
   cursor: pointer;
 }
 
+.btn-purple {
+  background-color: purple;
+}
+
+.btn-purple:hover {
+  background-color: rgb(84, 3, 84);
+  cursor: pointer;
+}
+
 a {
   text-decoration: none;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
